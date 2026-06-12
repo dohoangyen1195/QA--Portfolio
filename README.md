@@ -1,27 +1,16 @@
-# Minimal Mistakes remote theme starter
+# 自己紹介
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+家庭用ゲームテスターとして約2年間の実務経験があります。機能確認、UI確認、不具合報告、回帰テストなどを担当し、ユーザー視点で品質を確認する力を身につけてきました。
 
-Contains basic configuration to get you a site with:
+育児期間中もuTestでのテスト実務や自己学習を継続し、QAエンジニアとしてのスキル向上に取り組んできました。特に、操作性や使いやすさに関する問題を発見し、再現手順を整理したうえで分かりやすく報告することを得意としています。
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+また、約15年にわたりPC・スマートフォンでさまざまなアプリやサービスを利用してきた経験から、「ユーザーがどのように操作し、何を期待するか」という視点を自然に持っており、UXや操作性に関する課題の発見に活かしています。
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+現在はJSTQB Foundation Level相当の知識をベースに、テスト分析・テスト設計、APIテスト（Postman）、SQL、AWSなどの知識を体系的に学びながら、Web・モバイルQA領域へのキャリア拡大を目指しています。
 
----
+生成AIについても、情報整理や原因分析の補助ツールとして日常的に活用しており、今後はAI関連プロダクトの品質保証にも携わりたいと考えています。
 
-## Troubleshooting
+新しい環境への適応が早く、不明点は自ら調査しながら理解を深めることを大切にしています。日本語・英語・ベトナム語を活かし、国内外の開発チームと円滑にコミュニケーションを取りながら業務に貢献していきたいと考えています。
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+
